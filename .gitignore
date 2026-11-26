@@ -1,0 +1,11 @@
+*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/gis_vydely.py
+!/grid_to_stands.py
+!/poisk_losey.py
+!/privyazka_k_videlam.py
+!/sverka_losey.py
+!/tochki_vidimost.py
+!/requirements.txt
